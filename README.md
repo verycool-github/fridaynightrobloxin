@@ -14,6 +14,6 @@ __Future goals__
 no :(
 
 __Downloads__
-  * <a href="friday_night_robloxin__8e3e7.rar">With repository FNR'</a>
+  * <a href="raw/main/friday_night_robloxin__8e3e7.rar">With repository FNR'</a> (<a href="friday_night_robloxin_8e3e7.rar">View the file</a>)
 
 ____
