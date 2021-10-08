@@ -6,14 +6,14 @@ Welcome to the "FRIDAY NIGHT ROBLOXIN'" repository!
 
 ____
 
-##__About mod__
+## __About mod__
 Friday Night Robloxin' is a mod, create the FNF in roblox.
 Now avaliable 1 and 2 __roblox__ week
 
-##__Future goals__
+## __Future goals__
 no :(
 
-##__Downloads__
+## __Downloads__
   * <a href="https://github.com/verycool-github/fridaynightrobloxin/raw/main/friday_night_robloxin__8e3e7.rar">With repository FNR'</a> (<a href="friday_night_robloxin_8e3e7.rar">View the file</a>)
 
 ____
